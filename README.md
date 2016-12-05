@@ -36,9 +36,9 @@
 ©石森プロ
 ## 実験環境
 * Chainer 1.8.2   
+(今回の実験はすべてChainer1.8.2で実施。最新バージョンChainer1.18.0で動作することは確認)
 * python 2.7.6
 * OpenCV 3.0.0  
-
 ## 導入
 1. mahalita.pyをダウンロード
 
@@ -91,4 +91,5 @@ python mahalita.py 学習動画ファイル.mp4 学習過程動画ファイル.m
 ### 　　非商用
 
 ## ブログ
-http://www.eiji-k.com/entry/2016/11/14/235719
+* （前編） http://www.eiji-k.com/entry/2016/11/14/235719
+* （後編） http://www.eiji-k.com/entry/2016/12/05/103732
