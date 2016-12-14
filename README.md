@@ -92,5 +92,5 @@ python mahalita.py 学習動画ファイル.mp4 学習過程動画ファイル.m
 ### 　　非商用
 
 ## ブログ
-* （前編） http://www.eiji-k.com/entry/2016/11/14/235719
-* （後編） http://www.eiji-k.com/entry/2016/12/05/103732
+* （前編） http://eiji-kb.hatenablog.com/entry/2016/11/14/235719
+* （後編） http://eiji-kb.hatenablog.com/entry/2016/12/05/103732
